@@ -32,9 +32,9 @@ public class Longsubstring {
 	public static void main(String[] args) {
 		Longsubstring lss= new Longsubstring();
 		Solution sol= lss.new Solution();
-//		lengthOfLongestSubstring = lss.new lengthOfLongestSubstring();
 		int ans=sol.lengthOfLongestSubstring("abcabcbb");
 		System.out.println(ans);
+		System.out.println("Checking git");
 	}
 
 }
