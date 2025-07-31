@@ -35,6 +35,7 @@ public class Longsubstring {
 		int ans=sol.lengthOfLongestSubstring("abcabcbb");
 		System.out.println(ans);
 		System.out.println("Checking git");
+		System.out.println("Checking git after merging master to main. Now merging to main");
 	}
 
 }
