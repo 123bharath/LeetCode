@@ -37,6 +37,8 @@ public class Longsubstring {
 		System.out.println("Checking git");
 		System.out.println("Checking git after merging master to main. Now merging to main");
 		System.out.println("Conflict check without pulling data and directly pushing");
+		System.out.println("Checking merge conflict by editing directly into github - checked");
+
 	}
 
 }
